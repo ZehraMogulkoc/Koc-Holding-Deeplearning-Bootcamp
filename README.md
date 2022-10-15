@@ -4,3 +4,7 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 
 https://urbansounddataset.weebly.com/urbansound8k.html
 
+
+Certificate of completion:
+https://drive.google.com/file/d/14zF091LS-897iTwdlIzoWIvcXj7xU0ZB/view
+
